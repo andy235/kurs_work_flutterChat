@@ -1,6 +1,26 @@
 # kurs_work
 
-A new Flutter project.
+What app can do ?
+
++ sending messages
++ create individual chats
++ creata group chats
++ register users
++ user authentication
++ sending files
++ administration of group chats
+
+How it's works?
+
+The Dart language and the Flutter framework were chosen as the main technology for writing app. To implement a web server, the choice fell on NodeJS and Socket.io these technologies combine many functions: authentication, real-time database, file storage, etc.
+
+Screenshots
+
+![alt text](assets/markdown/1.jpg)
+![alt text](assets/markdown/2.jpg)
+![alt text](assets/markdown/3.jpg)
+![alt text](assets/markdown/4.jpg)
+![alt text](assets/markdown/5.jpg)
 
 ## Getting Started
 
